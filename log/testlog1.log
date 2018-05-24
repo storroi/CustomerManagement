@@ -1,0 +1,193 @@
+2016-07-17 22:57:42,520 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 22:57:44,292 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 22:57:44,602 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 22:57:46,192 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 22:57:50,829 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 22:57:57,748 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-07-17 22:57:58,815 [main] INFO TestNPULogonJUnit - clicked Register
+2016-07-17 22:58:01,932 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-07-17 22:59:15,902 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 22:59:17,603 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 22:59:17,931 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 22:59:19,732 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 22:59:36,561 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 22:59:43,704 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-07-17 22:59:44,721 [main] INFO TestNPULogonJUnit - clicked Register
+2016-07-17 22:59:47,647 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-07-17 22:59:49,714 [main] INFO TestNPULogonJUnit - captha not checked
+2016-07-17 22:59:54,403 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-07-17 23:11:47,964 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 23:11:52,258 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 23:11:52,592 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 23:11:54,393 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 23:12:43,179 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 23:13:34,221 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 23:13:35,895 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 23:13:36,241 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 23:13:37,945 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 23:13:41,740 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 23:14:34,712 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 23:14:36,504 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 23:14:36,830 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 23:14:38,778 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 23:14:46,350 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 23:15:07,109 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-07-17 23:15:08,210 [main] INFO TestNPULogonJUnit - clicked Register
+2016-07-17 23:15:11,202 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-07-17 23:15:13,276 [main] INFO TestNPULogonJUnit - captha not checked
+2016-07-17 23:15:18,496 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-07-17 23:16:01,234 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 23:16:03,238 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 23:16:03,557 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 23:16:05,472 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 23:16:33,600 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-17 23:16:35,376 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-17 23:16:35,696 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-17 23:16:37,373 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-17 23:16:41,734 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-17 23:16:49,444 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-07-17 23:16:50,525 [main] INFO TestNPULogonJUnit - clicked Register
+2016-07-17 23:16:53,647 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-07-17 23:16:55,701 [main] INFO TestNPULogonJUnit - captha not checked
+2016-07-17 23:17:00,174 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-07-30 22:06:55,533 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-07-30 22:07:01,388 [main] INFO TestNPULogonJUnit - opened google search 
+2016-07-30 22:07:02,071 [main] INFO TestNPULogonJUnit - searched NPU
+2016-07-30 22:07:04,588 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-07-30 22:07:09,323 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-07-30 22:07:20,499 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-07-30 22:07:22,653 [main] INFO TestNPULogonJUnit - clicked Register
+2016-07-30 22:07:25,891 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-14 18:35:24,810 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-14 18:35:29,795 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-14 18:35:30,950 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-14 18:35:33,410 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-14 18:35:37,766 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-14 18:35:47,141 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-14 18:35:48,137 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-14 18:35:51,242 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-22 10:12:05,113 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-22 10:12:08,740 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-22 10:12:09,263 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-22 10:12:11,521 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-22 10:12:39,889 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-22 10:12:53,151 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-22 10:12:53,973 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-22 10:12:57,657 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-22 10:21:07,352 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-22 10:21:09,208 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-22 10:21:09,655 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-22 10:21:11,417 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-22 10:21:15,213 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:08:11,206 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:08:12,965 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:08:13,364 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:08:15,473 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:08:24,395 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:08:29,996 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:08:31,079 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:08:34,748 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:08:36,845 [main] INFO TestNPULogonJUnit - captha not checked
+2016-08-30 18:08:41,242 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-08-30 18:19:40,689 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:19:42,578 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:19:42,939 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:19:44,723 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:19:48,580 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:19:54,523 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:19:55,583 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:19:59,296 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:20:01,385 [main] INFO TestNPULogonJUnit - captha not checked
+2016-08-30 18:20:05,851 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-08-30 18:21:15,247 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:21:16,938 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:21:17,410 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:21:19,182 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:21:24,330 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:21:29,702 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:21:30,675 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:21:33,944 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:21:36,042 [main] INFO TestNPULogonJUnit - captha not checked
+2016-08-30 18:21:40,415 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-08-30 18:22:51,970 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:22:53,681 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:22:54,037 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:22:56,181 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:24:09,859 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:24:11,524 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:24:11,925 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:24:13,872 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:26:05,761 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:26:07,607 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:26:07,941 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:26:09,918 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:28:01,178 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:28:03,035 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:28:03,398 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:28:05,393 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:29:11,707 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:29:13,336 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:29:13,795 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:29:15,787 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:29:19,143 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:29:29,350 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:29:30,051 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:29:33,172 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:29:35,244 [main] INFO TestNPULogonJUnit - captha not checked
+2016-08-30 18:29:37,871 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-08-30 18:31:36,887 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:31:38,460 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:31:38,987 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:31:40,671 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:32:05,313 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:32:06,810 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:32:07,584 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:32:10,258 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:32:40,699 [main] INFO TestNPULogonJUnit - Firefox Opened
+2016-08-30 18:32:42,071 [main] INFO TestNPULogonJUnit - opened google search 
+2016-08-30 18:32:42,692 [main] INFO TestNPULogonJUnit - searched NPU
+2016-08-30 18:32:44,728 [main] INFO TestNPULogonJUnit - Opened Npu website
+2016-08-30 18:32:48,018 [main] INFO TestNPULogonJUnit - Clicked apply online
+2016-08-30 18:32:49,384 [main] INFO TestNPULogonJUnit - Check box clicked
+2016-08-30 18:32:50,072 [main] INFO TestNPULogonJUnit - clicked Register
+2016-08-30 18:32:52,899 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2016-08-30 18:32:54,957 [main] INFO TestNPULogonJUnit - captha not checked
+2016-08-30 18:32:59,333 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2016-08-30 18:33:01,501 [Forwarding close on session e01c2693-9fdb-42f2-b760-c58eaad76c81 to remote] INFO org.apache.http.impl.execchain.RetryExec - I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Connection reset
+2016-08-30 18:33:01,502 [Forwarding close on session e01c2693-9fdb-42f2-b760-c58eaad76c81 to remote] INFO org.apache.http.impl.execchain.RetryExec - Retrying request to {}->http://127.0.0.1:7055
+2017-02-09 16:59:37,459 [main] INFO TestNPULogonJUnit - Firefox Opened
+2017-02-09 16:59:40,660 [main] INFO TestNPULogonJUnit - opened google search 
+2017-02-09 16:59:41,544 [main] INFO TestNPULogonJUnit - searched NPU
+2017-02-09 16:59:44,663 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-02-09 17:01:03,458 [main] INFO TestNPULogonJUnit - Firefox Opened
+2017-02-09 17:01:11,075 [main] INFO TestNPULogonJUnit - opened google search 
+2017-02-09 17:01:12,695 [main] INFO TestNPULogonJUnit - searched NPU
+2017-02-09 17:01:17,407 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-02-09 17:01:31,634 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-02-09 17:01:35,764 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-02-09 17:01:39,401 [main] INFO TestNPULogonJUnit - clicked Register
+2017-02-09 17:01:43,555 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-02-09 17:01:45,724 [main] INFO TestNPULogonJUnit - captha not checked
+2017-02-09 17:01:54,625 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-03-16 22:35:47,042 [main] INFO TestNPULogonJUnit - Firefox Opened
+2017-03-16 22:36:00,724 [main] INFO TestNPULogonJUnit - opened google search 
+2017-03-16 22:36:02,585 [main] INFO TestNPULogonJUnit - searched NPU
+2017-03-16 22:36:04,720 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-03-16 22:36:10,834 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-03-16 22:36:12,925 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-03-16 22:36:13,803 [main] INFO TestNPULogonJUnit - clicked Register
+2017-03-16 22:36:16,743 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-03-16 22:36:18,852 [main] INFO TestNPULogonJUnit - captha not checked
+2017-03-16 22:36:26,225 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-05 21:23:01,251 [main] INFO TestNPULogonJUnit - Firefox Opened
+2017-04-05 21:23:07,224 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-05 21:23:08,202 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-05 21:23:11,346 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-05 21:23:19,955 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-05 21:23:23,300 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-05 21:23:24,769 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-05 21:23:29,145 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-05 21:23:31,238 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-05 21:23:39,885 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-05 21:46:41,929 [main] INFO TestNpu2 - Firefox Opened
+2017-04-05 21:46:44,562 [main] INFO TestNpu2 - opened google search 

@@ -1,0 +1,98 @@
+2017-04-05 21:51:03,286 [main] INFO TestNpu2 - Firefox Opened
+2017-04-05 21:51:05,460 [main] INFO TestNpu2 - opened google search 
+2017-04-05 22:58:35,421 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 22:59:14,234 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:01:57,133 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:04:00,580 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:04:14,895 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:04:25,472 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:04:37,493 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:06:19,930 [main] INFO TestNpu2 - chrome Opened
+2017-04-05 23:31:09,792 [main] INFO TestNpu2 - firefox Opened
+2017-04-05 23:31:47,092 [main] INFO TestNpu2 - firefox Opened
+2017-04-05 23:32:41,778 [main] INFO TestNpu2 - firefox Opened
+2017-04-05 23:34:11,735 [main] INFO TestNpu2 - firefox Opened
+2017-04-13 20:11:30,460 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:11:34,135 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:16:17,765 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:16:21,599 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:18:10,444 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:18:14,929 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:19:30,997 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:19:39,483 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:19:40,325 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 20:19:54,146 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 20:24:55,489 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:24:58,608 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:24:59,870 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 20:25:05,733 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 20:25:09,622 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 20:25:09,891 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 20:25:12,164 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 20:25:16,100 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 20:25:18,257 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 20:25:22,953 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-13 20:26:16,891 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:26:19,588 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:26:20,693 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 20:26:26,303 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 20:26:29,459 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 20:26:29,711 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 20:26:30,932 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 20:26:35,446 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 20:26:37,553 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 20:26:42,265 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-13 20:27:23,723 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 20:27:32,476 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 20:27:32,894 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 20:27:35,217 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 20:27:47,824 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 20:27:48,110 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 20:27:51,210 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 20:27:55,450 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 20:27:57,553 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 20:28:04,454 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-13 21:28:03,338 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 21:28:06,591 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 21:28:08,962 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 21:28:16,241 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 21:29:29,328 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 21:29:33,338 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 21:29:34,898 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 21:29:41,819 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 21:29:51,053 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 21:29:51,446 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 21:29:53,517 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 21:29:58,902 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 21:30:01,196 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 21:30:07,348 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-13 21:31:14,664 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 21:31:19,235 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 21:31:20,257 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 21:31:23,669 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 21:31:37,281 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 21:31:47,557 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 21:31:49,410 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 21:31:59,487 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 21:32:01,647 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 21:32:07,372 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-13 22:13:29,860 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-13 22:13:32,713 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-13 22:13:32,847 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-13 22:13:34,238 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-13 22:13:47,433 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-13 22:13:57,681 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-13 22:13:58,781 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-13 22:14:05,884 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-13 22:14:07,972 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-13 22:14:11,327 [main] INFO TestNPULogonJUnit - Came back to NPU home page
+2017-04-20 01:40:02,803 [main] INFO TestNPULogonJUnit - Chrome Opened
+2017-04-20 01:40:06,859 [main] INFO TestNPULogonJUnit - opened google search 
+2017-04-20 01:40:07,077 [main] INFO TestNPULogonJUnit - searched NPU
+2017-04-20 01:40:08,364 [main] INFO TestNPULogonJUnit - Opened Npu website
+2017-04-20 01:40:21,707 [main] INFO TestNPULogonJUnit - Clicked apply online
+2017-04-20 01:40:31,902 [main] INFO TestNPULogonJUnit - Check box clicked
+2017-04-20 01:40:34,098 [main] INFO TestNPULogonJUnit - clicked Register
+2017-04-20 01:40:41,509 [main] INFO TestNPULogonJUnit - Entered details and clicked Save
+2017-04-20 01:40:43,595 [main] INFO TestNPULogonJUnit - captha not checked
+2017-04-20 01:40:47,391 [main] INFO TestNPULogonJUnit - Came back to NPU home page
